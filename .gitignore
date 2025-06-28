@@ -1,9 +1,12 @@
 .env
+# Ignore uploaded files
+Uploaded_file/
+
+# Ignore FAISS vector DB
+Faiss_vdb/
+
+
+
+# Python cache
 __pycache__/
 *.pyc
-.vscode/
-*.faiss
-*.db
-*.log
-*.idea/
-*.Faiss_vdb/

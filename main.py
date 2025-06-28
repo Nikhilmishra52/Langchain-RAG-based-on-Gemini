@@ -73,7 +73,7 @@ async def chat(que:chat):
 
     answer = qa_chain.run(data)
 
-    return answer
+    return f"answer :" ,answer
 
 
 

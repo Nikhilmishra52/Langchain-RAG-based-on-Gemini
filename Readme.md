@@ -39,9 +39,6 @@ This project is a FastAPI-based chatbot that leverages **Langchain**, **FAISS**,
 ├── Faiss_vdb/ # FAISS vector DB storage (ignored)
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
